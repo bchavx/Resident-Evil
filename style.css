@@ -1,0 +1,54 @@
+body{
+    background-image: url(./img/fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    font-family: 'Inria Serif', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    width: 100vw;
+    padding-top: 48px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+header a{
+    color: #C4C233;
+    display: block;
+    font-weight: 600;
+}
+
+.topo{
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.sobre{
+    color: white;
+}
+
+.ethan{
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    color: #C4C233;
+    font-weight: 600;
+    padding-top: 185px;
+    padding-right: 190px;
+}
+
+.texto{
+    background-color: blue;
+    color: white;
+    padding-right: 400px;
+    padding-left: 1000px;
+}
+
+
+
+
